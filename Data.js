@@ -1,5 +1,5 @@
 const data = {
-  Name: "John Doe",
+  Name: "Mauli Patel",
   Role: "Frontend Developer",
   Description:
     "I am a professional <strong>UX Designer</strong> and <strong>Front-End Developer</strong> creating modern and responsive designs for <strong>Web</strong> and <strong>Mobile</strong>. Let us work together. Thank you.",
@@ -16,10 +16,10 @@ const data = {
   Work3Description:
     "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.",
 
-  Email: "test@gmail.com",
+  Email: "maulidetroja@gmail.com",
   Number: "+91 1234567891",
-  BirthDate: "September 9, 2004",
-  Address: "xyz street 260004, Rajkot, Gujarat",
+  BirthDate: "February 25, 2005",
+  Address: "Amkiba township,Rajkot, Gujarat",
   Website: "www.xyz.com",
 
   SkillDescription:
